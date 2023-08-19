@@ -14,6 +14,6 @@ git clone https://github.com/iflixer/public.git installer && bash ./installer/in
 ```
 It will install the app to the current user's home dir
 
+```
 <path-to-repo> should be like "username/project.git"
-
-
+```
