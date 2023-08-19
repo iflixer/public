@@ -23,6 +23,7 @@ chmod 600 ~/.ssh/config
 cat << EOM >> ~/.ssh/config
 Host github-deploy
  HostName github.com
+ IdentityAgent none
  IdentityFile ~/.ssh/github-deploy
 EOM
 
