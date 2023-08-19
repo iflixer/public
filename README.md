@@ -3,10 +3,7 @@
 Prerequisites:
 ```
 ubuntu >20
-git 
-ssh
-docker
-docker-compose
+apt-get install -y git ssh docker.io docker-compose
 ```
 
 To init new server with app from repository, run this command (replace <path-to-repo>!!!):

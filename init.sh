@@ -47,5 +47,5 @@ done
 
 chmod +x ~/app/restart.sh
 
-printf "\n\nDONE! Your server is ready to work. Open the folder deploy and run:\n sh restart.sh\n"
+printf "\n\nDONE! Your server is ready to work. cd to dir ~/app and run:\n ./restart.sh\n"
 
