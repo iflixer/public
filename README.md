@@ -12,6 +12,8 @@ To init new server with app from repository, run this command:
 git clone https://github.com/iflixer/public.git installer && bash ./installer/init.sh iflixer/balancer.git && rm -rf installer
 #to install web
 git clone https://github.com/iflixer/public.git installer && bash ./installer/init.sh iflixer/web.git && rm -rf installer
+#to install uploader
+git clone https://github.com/iflixer/public.git installer && bash ./installer/init.sh iflixer/web-uploader.git && rm -rf installer
 ```
 It will install the repo to the ~/app
 
